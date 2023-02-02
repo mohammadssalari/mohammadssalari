@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohammadssalari
-- 👀 I’m interested in C#,JS
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on C#,SQL
+- 👀 I’m interested in C#
+- 🌱 I’m currently learning Ruby and RoR
+- 💞️ I’m looking to collaborate on C#
 - 📫 How to reach me mohammad.s.salari@gmail.com
 
 <!---
